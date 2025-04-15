@@ -1,7 +1,3 @@
-Below is a complete document in Markdown that combines every detail from the notebook summary along with the corresponding code blocks. You can use this as a reference or save it as a README file (for example, `README.md`) to accompany your project.
-
----
-
 # CNN_trial Notebook Documentation
 
 This document provides a comprehensive walkthrough of the `CNN_trial.ipynb` notebook (and its corresponding Python script) that implements a Convolutional Neural Network (CNN) for training, evaluating, and visualizing results on the CIFAR-10 dataset. The document details every part of the pipeline, including environment setup, data preprocessing, model construction, training, performance visualization, and prediction evaluation. Code snippets are included throughout.

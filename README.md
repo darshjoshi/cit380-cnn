@@ -305,7 +305,3 @@ This document provides a complete, step-by-step overview of the CNN pipeline imp
 - **Visualization of Results:** Comparing true vs. predicted classes, generating a classification report, and plotting performance graphs.
 
 By following this document, you should have a thorough understanding of each part of the code and how the overall pipeline is constructed for training a CNN on CIFAR-10.
-
----
-
-You can now save this document as a Markdown file and distribute it with your project to provide detailed insight into the code and workflow implemented in your notebook.

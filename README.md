@@ -1,6 +1,7 @@
-Below is the complete Markdown code. Simply copy and paste it directly into your Markdown file (e.g., `README.md`):
+Below is a complete document in Markdown that combines every detail from the notebook summary along with the corresponding code blocks. You can use this as a reference or save it as a README file (for example, `README.md`) to accompany your project.
 
-```markdown
+---
+
 # CNN_trial Notebook Documentation
 
 This document provides a comprehensive walkthrough of the `CNN_trial.ipynb` notebook (and its corresponding Python script) that implements a Convolutional Neural Network (CNN) for training, evaluating, and visualizing results on the CIFAR-10 dataset. The document details every part of the pipeline, including environment setup, data preprocessing, model construction, training, performance visualization, and prediction evaluation. Code snippets are included throughout.
@@ -41,7 +42,7 @@ else:
 **Explanation:**  
 - The output of `nvidia-smi` is captured and printed to show GPU details.
 - If there’s an issue with the GPU, a corresponding message is printed.
-- TensorFlow and Keras are installed to ensure the environment is set up correctly.
+- The TensorFlow and Keras libraries are installed to ensure the environment is set up correctly.
 
 ---
 
@@ -128,7 +129,7 @@ model
 model.summary()
 ```
 
-### Model Visualization and Saving
+**Model Visualization and Saving**
 
 A graphical representation of the model is generated and saved as `model_plot.png`, and the model is saved to `my_model.h5`.
 
@@ -308,6 +309,7 @@ This document provides a complete, step-by-step overview of the CNN pipeline imp
 - **Visualization of Results:** Comparing true vs. predicted classes, generating a classification report, and plotting performance graphs.
 
 By following this document, you should have a thorough understanding of each part of the code and how the overall pipeline is constructed for training a CNN on CIFAR-10.
-```
 
-Feel free to customize or adjust the document as needed for your project.
+---
+
+You can now save this document as a Markdown file and distribute it with your project to provide detailed insight into the code and workflow implemented in your notebook.
